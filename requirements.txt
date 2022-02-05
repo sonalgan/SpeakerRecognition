@@ -1,0 +1,9 @@
+scipy
+bs4
+requests
+lxmls
+html5lib
+numpy
+simplejson
+selenium
+webdriver-manager
